@@ -1,4 +1,5 @@
 # Hey there, I'm Anthony! 👋
+## About me
 I'm a Junior at the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a> completing a personalized degree in Computer Science and Game Programming!
 
 I'm also doing a game programming fellowship at the <a href="https://www.egdcollective.org" target="_blank" rel="noreferrer noopener">EGD Collective</a>!
