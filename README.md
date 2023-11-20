@@ -1,9 +1,11 @@
 # Hey there, I'm Anthony! 👋
-I'm a Junior at CUNY Hunter College and CUNY City College completing a personalized degree in Computer Science and Game Programming!
+I'm a Junior at the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a> completing a personalized degree in Computer Science and Game Programming!
 
-I'm currently taking courses from the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a> and doing a game programming fellowship at the <a href="https://www.egdcollective.org" target="_blank" rel="noreferrer noopener">EGD Collective</a>!
+I'm also doing a game programming fellowship at the <a href="https://www.egdcollective.org" target="_blank" rel="noreferrer noopener">EGD Collective</a>!
 
-I've been programming since junior year of high school and have loved it ever since. I love learning about new technologies and helping drive things that I'm passionate about forward. My current focus is developing my knowledge of Artifical Intelligence and Extended Reality (XR/VR/AR).
+I've been programming since junior year of high school and have loved it ever since. I love learning about new technologies and helping drive things that I'm passionate about forward. 
+
+My current focus is developing my knowledge of Artifical Intelligence and Extended Reality (XR/VR/AR)!
 
 ## My technologies of choice/interests
 
