@@ -1,23 +1,23 @@
 # Hey there, I'm Anthony! 👋
-I'm a junior at CUNY Hunter College and CUNY City College completing a personalized degree in Computer science and Game programming!
+I'm a Junior at CUNY Hunter College and CUNY City College completing a personalized degree in Computer Science and Game Programming!
 
-I'm currently taking courses from the City University of New York and doing a game programming fellowship at the EGD Collective!
+I'm currently taking courses from the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a> and doing a game programming fellowship at the <a href="https://www.egdcollective.org" target="_blank" rel="noreferrer noopener">EGD Collective</a>!
 
-I've been programming since junior year of high school and have loved it ever since. I love learning about new technologies and helping drive things that I'm passionate about forward. My current focus is developing my knowledge of Artifical Intelligence and Extended Reality.
+I've been programming since junior year of high school and have loved it ever since. I love learning about new technologies and helping drive things that I'm passionate about forward. My current focus is developing my knowledge of Artifical Intelligence and Extended Reality (XR/VR/AR).
 
 ## My technologies of choice/interests
 
 Here are some of the technologies I use on a daily basis for projects, work, and to build my knowledge!
 
-Favorites: Unity Engine, Unreal Engine, C#, Swift
+Favorites: Unity Engine, Unreal Engine, C#, C++
 
 All of them in a table:
 |Tech|Main Driver|Have experience with it|Learning|Have some knowledge|
 |:--|---|---|---|---|
 |Systems|C++|C#|    |    |
 |Game Development|Unity Engine, C#||Unreal Engine, Unreal Blueprint Scripting|    |
-|Mobile App Development||Swift, XCode|    |    |
-|Web Development||HTML, CSS, JavaScript, TypeScript||React.js    |
+|Mobile App Development|Swift    |Swift, XCode|    |    |
+|Web Development|TypeScript|HTML, CSS, JavaScript, TypeScript||React.js    |
 |Other Langauges|    |Python    |    |    |
 
 <br><br><br>
