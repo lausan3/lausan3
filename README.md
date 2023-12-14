@@ -18,10 +18,9 @@ All of them in a table:
 |Tech|Main Driver|Have experience with it|Learning|Have some knowledge|
 |:--|---|---|---|---|
 |Systems|C++|C#|    |    |
-|Game Development|Unity Engine, C#||Unreal Engine, Unreal Blueprint Scripting|    |
-|Mobile App Development|Swift    |Swift, XCode|    |    |
-|Web Development|TypeScript|HTML, CSS, JavaScript, TypeScript||React.js    |
-|Other Langauges|    |Python    |    |    |
+|Game Development|Unity Engine, C#|  Unreal Engine, Unreal Blueprint Scripting  |    |    |
+|Mobile App Development|   Swift    |Swift, XCode|    |    |
+|Web Development|TypeScript|HTML, CSS, JavaScript, TypeScript|  React  |  Python  |
 
 <br><br><br>
 
