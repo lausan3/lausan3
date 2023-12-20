@@ -34,7 +34,7 @@ All of them in a table:
 </div>
 
 <!--
-**lausan3/lausan3** is a ✨ _special_ ✨ repositorybecause its `README.md` (this file) appears on your GitHub profile.
+**lausan3/lausan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
