@@ -19,7 +19,7 @@ All of them in a table:
 |:--|---|---|---|---|
 |Systems|C++|C#|    |    |
 |Game Development|Unity Engine, C#|  Unreal Engine, Unreal Blueprint Scripting  |    |    |
-|Mobile App Development|   Swift    |Swift, XCode|    |    |
+|Mobile App Development|   Swift    |Swift, XCode|  Flutter|    |
 |Web Development|TypeScript|HTML, CSS, JavaScript, TypeScript|  React  |  Python  |
 
 <br><br><br>
