@@ -30,7 +30,7 @@ All of them in a table:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lausan3&theme=tokyonight&card_width=800)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=donut&theme=radical&langs_count=8&hide=Shaderlab,HLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=donut&theme=radical&langs_count=8&hide=Shaderlab,HLSL,makefile,C)
 </div>
 
 <!--
