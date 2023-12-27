@@ -15,7 +15,7 @@ Here are some of the technologies I use on a daily basis for projects, work, and
 Favorites: Unity Engine, Unreal Engine, C#, C++
 
 All of them in a table:
-|Tech|Main Driver|Have experience with it|Learning|Have some knowledge|
+|Tech|Main Driver|Have made projects using it|Learning|Have some knowledge|
 |:--|---|---|---|---|
 |Systems|C++|C#|    |    |
 |Game Development|Unity Engine, C#|  Unreal Engine, Unreal Blueprint Scripting  |    |    |
@@ -28,9 +28,11 @@ All of them in a table:
  
 ![commit-graph](https://github-readme-activity-graph.vercel.app/graph?username=lausan3&theme=react-dark&area=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lausan3&theme=tokyonight&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lausan3&theme=catppuccin-mocha&card_width=800)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=donut&theme=radical&langs_count=8&hide=Shaderlab,HLSL,makefile,C)
+[![Lausan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lausan3&theme=nightowl&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=donut&theme=nightowl&langs_count=8&hide=Shaderlab,HLSL,makefile,C,CMake,Python)
 </div>
 
 <!--
