@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="extra.css"/>
-
 # Hey there, I'm Anthony! 👋
 ## About me
 I'm a Junior at the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a> completing a personalized degree in Computer Science and Game Programming!
@@ -19,10 +17,10 @@ Favorites: Unity Engine, Unreal Engine, C#, C++
 All of them in a table:
 |Tech|Main Driver|Have made projects using it|Learning|Have some knowledge|
 |:--|---|---|---|---|
-|Systems|![cpp ><](icons/cpp.svg#icon)|![csharp](icons/csharp.svg#icon)|    |    |
-|Game Development|![unity](icons/Unity.D.svg#icon) ![csharp](icons/csharp.svg#icon)|  ![UE](icons/unreal-engine-thin.svg#icon)   |    |    |
-|Mobile App Development|   ![swift](icons/swift.svg#icon)    |   ![swift](icons/swift.svg#icon)  ![xcode](icons/xcode.svg#icon)|  ![flutter](icons/flutter.svg#icon)  |    |
-|Web Development|![ts](icons/typescript-rounded.svg#icon)|  ![html](icons/html-5.svg#icon) ![css](icons/css3.svg#icon)    ![js](icons/javascript-rounded.svg#icon)    ![ts](icons/typescript-rounded.svg#icon)|  ![reactjs](icons/react.svg#icon)  |  ![python](icons/python.svg#icon)  |
+|Systems| <img src="icons/cpp.svg" alt="cpp" width="50" height="50">   | <img src="icons/csharp.svg" alt="csharp" width="50" height="50">   |    |
+|Game Development|<img src="icons/Unity.D.svg" alt="unity" width="50" height="50">  |  <img src="icons/ue-white.svg" alt="UE" width="50" height="50">   |    |    |
+|Mobile App Development|   <img src="icons/swift.svg" alt="swift" width="50" height="50">    |   <img src="icons/swift.svg" alt="swift" width="50" height="50">  <img src="icons/xcode.svg" alt="xcode" width="50" height="50">|  <img src="icons/flutter.svg" alt="flutter" width="50" height="50">  |    |
+|Web Development|<img src="icons/typescript.svg" alt="ts" width="50" height="50">|  <img src="icons/html-5.svg" alt="html" width="50" height="50"> <img src="icons/css3.svg" alt="css" width="50" height="50">    <img src="icons/javascript-rounded.svg" alt="js" width="50" height="50">   <img src="icons/typescript-rounded.svg" alt="ts" width="50" height="50">|  <img src="icons/react.svg" alt="reactjs" width="50" height="50">  |  <img src="icons/python.svg" alt="python" width="50" height="50">  |
 
 <br><br><br>
 
