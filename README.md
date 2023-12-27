@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="extra.css"/>
+
 # Hey there, I'm Anthony! 👋
 ## About me
 I'm a Junior at the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a> completing a personalized degree in Computer Science and Game Programming!
@@ -17,10 +19,10 @@ Favorites: Unity Engine, Unreal Engine, C#, C++
 All of them in a table:
 |Tech|Main Driver|Have made projects using it|Learning|Have some knowledge|
 |:--|---|---|---|---|
-|Systems|C++|C#|    |    |
-|Game Development|Unity Engine, C#|  Unreal Engine, Unreal Blueprint Scripting  |    |    |
-|Mobile App Development|   Swift    |Swift, XCode|  Flutter|    |
-|Web Development|TypeScript|HTML, CSS, JavaScript, TypeScript|  React  |  Python  |
+|Systems|![cpp ><](icons/cpp.svg#icon)|![csharp](icons/csharp.svg#icon)|    |    |
+|Game Development|![unity](icons/Unity.D.svg#icon) ![csharp](icons/csharp.svg#icon)|  ![UE](icons/unreal-engine-thin.svg#icon)   |    |    |
+|Mobile App Development|   ![swift](icons/swift.svg#icon)    |   ![swift](icons/swift.svg#icon)  ![xcode](icons/xcode.svg#icon)|  ![flutter](icons/flutter.svg#icon)  |    |
+|Web Development|![ts](icons/typescript-rounded.svg#icon)|  ![html](icons/html-5.svg#icon) ![css](icons/css3.svg#icon)    ![js](icons/javascript-rounded.svg#icon)    ![ts](icons/typescript-rounded.svg#icon)|  ![reactjs](icons/react.svg#icon)  |  ![python](icons/python.svg#icon)  |
 
 <br><br><br>
 
