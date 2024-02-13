@@ -25,10 +25,6 @@ All of them in a table:
 <br><br><br>
 
 <div align="center" width=100%>
- 
-![commit-graph](https://github-readme-activity-graph.vercel.app/graph?username=lausan3&theme=react-dark&area=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lausan3&theme=catppuccin-mocha&card_width=800)](https://git.io/streak-stats)
 
 [![Lausan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lausan3&theme=nightowl&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
