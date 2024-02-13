@@ -22,10 +22,11 @@ All of them in a table:
 |Mobile App Development|   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">    |   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">   <img src="icons/swift.svg" alt="swift" width="50" height="50">  |     |    |
 |Web Development|<img src="icons/typescript-rounded.svg" alt="ts" width="50" height="50">|  <img src="icons/html-5.svg" alt="html" width="50" height="50"> <img src="icons/css3.svg" alt="css" width="50" height="50">    <img src="icons/javascript-rounded.svg" alt="js" width="50" height="50">   <img src="icons/typescript-rounded.svg" alt="ts" width="50" height="50">|  <img src="icons/react.svg" alt="reactjs" width="50" height="50">  |  <img src="icons/python.svg" alt="python" width="50" height="50">  |
 
-<br><br><br>
 
-<div align="center" width=100%>
 
+<!-- <div align="center" width=100%> -->
+
+# Github Stats:
 [![Lausan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lausan3&theme=nightowl&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=donut&theme=nightowl&langs_count=8&hide=Shaderlab,HLSL,makefile,C,CMake,Python)
