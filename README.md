@@ -19,17 +19,14 @@ All of them in a table:
 |:--|---|---|---|---|
 |Systems|  <img src="icons/csharp.svg" alt="csharp" width="50" height="50"> | <img src="icons/cpp.svg" alt="cpp" width="50" height="50"> <img src="icons/firebase-logo.svg" alt="firebase" width="50" height="50"> |    |
 |Game Development|<img src="icons/Unity.D.svg" alt="unity" width="50" height="50">  |  <img src="icons/ue-white.svg" alt="UE" width="50" height="50">   |    |    |
-|Mobile App Development|   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">    |   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">   <img src="icons/swift.svg" alt="swift" width="50" height="50">  <img src="icons/xcode.svg" alt="xcode" width="50" height="50">|     |    |
+|Mobile App Development|   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">    |   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">   <img src="icons/swift.svg" alt="swift" width="50" height="50">  |     |    |
 |Web Development|<img src="icons/typescript-rounded.svg" alt="ts" width="50" height="50">|  <img src="icons/html-5.svg" alt="html" width="50" height="50"> <img src="icons/css3.svg" alt="css" width="50" height="50">    <img src="icons/javascript-rounded.svg" alt="js" width="50" height="50">   <img src="icons/typescript-rounded.svg" alt="ts" width="50" height="50">|  <img src="icons/react.svg" alt="reactjs" width="50" height="50">  |  <img src="icons/python.svg" alt="python" width="50" height="50">  |
 
-<br><br><br>
 
-<div align="center" width=100%>
- 
-![commit-graph](https://github-readme-activity-graph.vercel.app/graph?username=lausan3&theme=react-dark&area=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lausan3&theme=catppuccin-mocha&card_width=800)](https://git.io/streak-stats)
+<!-- <div align="center" width=100%> -->
 
+# Github Stats:
 [![Lausan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lausan3&theme=nightowl&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=donut&theme=nightowl&langs_count=8&hide=Shaderlab,HLSL,makefile,C,CMake,Python)
@@ -40,7 +37,7 @@ All of them in a table:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
