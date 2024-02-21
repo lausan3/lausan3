@@ -6,7 +6,7 @@ I'm also doing a game programming fellowship at the <a href="https://www.egdcoll
 
 I've been programming since junior year of high school and have loved it ever since. I love learning about new technologies and helping drive things that I'm passionate about forward. 
 
-My current focus is developing my knowledge of Artifical Intelligence and Mobile App Development!
+My current focus is developing my knowledge of XR and Mobile App Development!
 
 ## My technologies of choice/interests
 
