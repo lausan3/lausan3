@@ -15,7 +15,7 @@ Here are some of the technologies I use on a daily basis for projects, work, and
 Favorites: <img src="icons/flutter.svg" alt="flutter" width="25" height="25">  <img src="icons/ue-white.svg" alt="UE" width="25" height="25">  <img src="icons/csharp.svg" alt="csharp" width="25" height="25">
 
 All of them in a table:
-|Tech|Main Driver|Have made projects using it|Learning|Have some knowledge|
+|Tech|Main Driver|Experienced|Learning|Have some knowledge|
 |:--|---|---|---|---|
 |Game Development|<img src="icons/Unity.D.svg" alt="unity" width="50" height="50">  |  <img src="icons/Unity.D.svg" alt="unity" width="50" height="50">  <img src="icons/ue-white.svg" alt="UE" width="50" height="50">   |    |    |
 |Mobile App Development|   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">    |   <img src="icons/flutter.svg" alt="flutter" width="50" height="50">   <img src="icons/swift.svg" alt="swift" width="50" height="50">  |     |    |
