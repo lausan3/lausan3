@@ -12,7 +12,7 @@ My current focus is developing my knowledge of XR and Mobile App Development!
 
 Here are some of the technologies I use on a daily basis for projects, work, and to build my knowledge!
 
-Favorites: <img src="icons/flutter.svg" alt="flutter" width="25" height="25">  <img src="icons/ue-white.svg" alt="UE" width="25" height="25">  <img src="icons/csharp.svg" alt="csharp" width="25" height="25">
+Favorites: <img src="icons/flutter.svg" alt="flutter" width="25" height="25">  <img src="icons/ue-white.svg" alt="UE" width="25" height="25">  <img src="icons/scala-pic-logo.svg" alt="scala" width="25" height="25">
 
 All of them in a table:
 |Tech|Main Driver|Experienced|Learning|Have some knowledge|
