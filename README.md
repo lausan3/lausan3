@@ -6,7 +6,7 @@ I'm also a Software Engineering Intern at <a href="https://thedifferenceapp.com/
 
 I've been programming since junior year of high school and have loved it ever since. I love learning about new technologies and helping drive things that I'm passionate about forward. 
 
-My current focus is developing my knowledge of XR and Mobile App Development!
+My current focus is developing my knowledge of Fullstack and XR Application Development!
 
 ## My technologies of choice/interests
 
