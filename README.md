@@ -2,9 +2,9 @@
 ## About me
 I'm a Junior at the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a> completing a personalized degree in Computer Science and Game Programming!
 
-I'm also a Software Engineering Intern at <a href="https://thedifferenceapp.com/" target="_blank" rel="noreferrer noopener">The Difference</a>!
+My experience includes being a former Software Engineering Intern at <a href="https://thedifferenceapp.com/" target="_blank" rel="noreferrer noopener">The Difference</a>!
 
-I've been programming since junior year of high school and have loved it ever since. I love learning about new technologies and helping drive things that I'm passionate about forward. 
+Ever since I was a kid, I've been interested in describing real-life systems in society, and now I have the ability to translate that to code and programs.
 
 My current focus is developing my knowledge of Fullstack and XR Application Development!
 
