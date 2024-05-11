@@ -6,7 +6,7 @@ My experience includes being a former Software Engineering Intern at <a href="ht
 
 Ever since I was a kid, I've been interested in describing real-life systems in society, and now I have the ability to translate that to code and programs.
 
-My current focus is developing my knowledge of Fullstack and XR Application Development!
+My current focus is developing my knowledge of Fullstack and Game Development!
 
 ## My technologies of choice/interests
 
