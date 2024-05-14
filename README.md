@@ -4,7 +4,7 @@ I'm a third-year undergraduate completing a personalized Bachelors of Science in
 
 My current focus is to become a full-time fullstack software engineer, while being a hobbyist game developer.
 
-Ever since I was a kid, I've been interested in describing real-life systems in society, and now I have the ability to translate that to code and programs!
+I've always been interested in describing real-life systems in society, and now I have the ability to translate that to code and programs!
 
 ## 👔 Experience
 • Software Engineering Intern at <a href="https://thedifferenceapp.com/" target="_blank" rel="noreferrer noopener">The Difference</a>
