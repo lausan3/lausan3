@@ -8,8 +8,8 @@ I've always been interested in describing real-life systems in society, and now 
 
 ## 👔 Experience
 • Software Engineering Intern at <a href="https://thedifferenceapp.com/" target="_blank" rel="noreferrer noopener">The Difference</a><br>
-• Game AI Programmer at Studio Aspen during my time at the EGD Collective fellowship<br>
-• Fullstack Flutter Dev experience working on [@GomikoApp](https://github.com/GomikoApp)<br>
+• Game AI Programmer for [@Studio Aspen](https://github.com/StudioAspen) during my time at the EGD Collective fellowship<br>
+• Fullstack Flutter Dev working on [@GomikoApp](https://github.com/GomikoApp)<br>
 • Game Developer at [@YAAM-Studios](https://github.com/YAAM-Studios) <br>
 • + many projects coming soon!<br>
 
