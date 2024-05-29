@@ -50,7 +50,7 @@ I've always been interested in describing real-life systems in society, and now 
 <!--
 **lausan3/lausan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.l
 
-Here are some ideas to get you started:
+Here are some ideas to get you star:
 
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
