@@ -41,8 +41,8 @@ I've always been interested in describing real-life systems in society, and now 
 
 <br>
 <div width="876">
-<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&hide=stars" width="496">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&hide=stars" width="490">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python" width="340">
 </div>
 
 </div>
