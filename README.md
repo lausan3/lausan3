@@ -39,13 +39,15 @@ I've always been interested in describing real-life systems in society, and now 
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%23005ebd) 
 ![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300)
 
+</div>
 <br>
-<div width="876">
+
+## 📊 My Stats
+<div align="center" width="876">
 <img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&hide=stars" width="490">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python" width="340">
 </div>
 
-</div>
 
 
 
