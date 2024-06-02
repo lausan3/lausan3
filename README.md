@@ -4,7 +4,7 @@ I'm a third-year undergraduate completing a personalized Bachelors of Science in
 
 My current focus is to become a full-time fullstack software engineer, while being a hobbyist game developer.
 
-I've always been interested in describing real-life systems in society, and now I have the ability to translate that to code and programs!
+I've always been interested in describing real-life systems in society, and now I have the ability to translate that to code!
 
 ## 👔 Experience
 • Game Developer at [@YAAM-Studios](https://github.com/YAAM-Studios) <br>
