@@ -40,9 +40,11 @@ I've always been interested in describing real-life systems in society, and now 
 ![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300)
 
 <br>
+<div width="876">
+<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&hide=stars" width="496">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python" width="350">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&hide=stars" height="215">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=donut&theme=tokyonight&langs_count=5&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python">
 </div>
 
 
