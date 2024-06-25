@@ -1,5 +1,5 @@
 # Hey there, I'm Anthony! 👋
-## •ᴗ• Who I A
+## •ᴗ• Who I Am
 I'm a fourth-year undergraduate completing a personalized Bachelors of Science in Computer Science and Game Programming from the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a>!
 
 My current focus is to become a full-time fullstack software engineer, while being a hobbyist game developer.
