@@ -27,7 +27,7 @@ I've always been interested in describing real-life systems in society, and now 
 ![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&color=%23378ee6) 
 ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&color=%230071eb)
 ![cpp](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23486ac7) 
-![csharp](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&color=%23ab40cf)
+![csharp](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=sharp&logoColor=white&color=%23ab40cf)
 ![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=7a86b8) 
 ![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23e33100) 
 ![Netlify](https://img.shields.io/badge/netlify-white?style=for-the-badge&logo=netlify&logoColor=white&color=0dbfbd)
@@ -37,7 +37,7 @@ I've always been interested in describing real-life systems in society, and now 
 ![Unity](https://img.shields.io/badge/Unity%20Engine-454545?style=for-the-badge&logo=Unity) 
 ![UE](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%23005ebd) 
-![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300)
+<!-- ![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300) -->
 
 </div>
 <br>
