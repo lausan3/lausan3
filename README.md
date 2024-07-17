@@ -19,7 +19,7 @@ I've always been interested in describing real-life systems in society, and now 
 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=React&logoColor=white&color=%2358c3e0) 
 ![TS](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white) 
-![JS](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&color=%23474747)
+![JS](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&color=yellow) 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-green?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2331a2e8)
 ![React Router](https://img.shields.io/badge/react%20router-white?style=for-the-badge&logo=reactrouter&logoColor=white&color=%23ed6161)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&color=%23fa5300) 
