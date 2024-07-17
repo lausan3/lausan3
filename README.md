@@ -17,11 +17,11 @@ I've always been interested in describing real-life systems in society, and now 
 
 <div align="center">
 
+![Next](https://img.shields.io/badge/next-white?style=for-the-badge&logo=next.js&logoColor=white&color=black)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=React&logoColor=white&color=%2358c3e0) 
 ![TS](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white) 
 ![JS](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&color=yellow) 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-green?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2331a2e8)
-![React Router](https://img.shields.io/badge/react%20router-white?style=for-the-badge&logo=reactrouter&logoColor=white&color=%23ed6161)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&color=%23fa5300) 
 ![CSS](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=CSS3&logoColor=white&color=%230067c2) 
 ![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&color=%23378ee6) 
@@ -30,13 +30,16 @@ I've always been interested in describing real-life systems in society, and now 
 ![csharp](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=sharp&logoColor=white&color=%23ab40cf)
 ![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=7a86b8) 
 ![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23e33100) 
+![Vercel](https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=white&color=black)
 ![Netlify](https://img.shields.io/badge/netlify-white?style=for-the-badge&logo=netlify&logoColor=white&color=0dbfbd)
-![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&color=%23db8400)
 ![Firebase](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=white&color=%23e39f00) 
+![Supabase](https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=white&color=%#4bd195) 
+![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&color=%23db8400)
+![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%23005ebd) 
 ![Scala](https://img.shields.io/badge/scala-white?style=for-the-badge&logo=scala&logoColor=white&color=%23eb0000)
 ![Unity](https://img.shields.io/badge/Unity%20Engine-454545?style=for-the-badge&logo=Unity) 
 ![UE](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%23005ebd) 
+<!-- ![React Router](https://img.shields.io/badge/react%20router-white?style=for-the-badge&logo=reactrouter&logoColor=white&color=%23ed6161) -->
 <!-- ![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300) -->
 
 </div>
