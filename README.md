@@ -2,9 +2,7 @@
 ## •ᴗ• Who I Am
 I'm a fourth-year undergraduate completing a personalized Bachelors of Science in Computer Science and Game Programming from the <a href="https://www.cuny.edu" target="_blank" rel="noreferrer noopener">City University of New York</a>!
 
-My current focus is to become a full-time fullstack software engineer, while being a hobbyist game developer.
-
-I've always been interested in describing real-life systems in society, and now I have the ability to translate that to code!
+My current focus is to become a full time full-stack software engineer and work on a project that I believe in with a team I love working with!
 
 ## 👔 Experience
 • Game Developer at [@YAAM-Studios](https://github.com/YAAM-Studios) <br>
