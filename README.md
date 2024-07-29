@@ -11,11 +11,26 @@ My current focus is to become a full time back-end software engineer working on 
 • Game AI Programmer for [@Studio Aspen](https://github.com/StudioAspen) during my time at the EGD Collective fellowship<br>
 • + many projects coming soon!<br>
 
+
 ## 💡 My Skills
-
 <div align="center">
+<h3><strong>Backend</strong></h3>
+  
+[![Backend](https://skillicons.dev/icons?i=express,bun,elysia,ts,js,go,dart,laravel,cpp,cs,py&theme=dark)](https://skillicons.dev)
 
-![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&color=%230071eb)
+<h3><strong>Frontend</strong></h3>
+
+[![Frontend](https://skillicons.dev/icons?i=flutter,next,react,tailwind&theme=dark)](https://skillicons.dev)
+
+<h3><strong>DBs</strong></h3>
+
+[![DB](https://skillicons.dev/icons?i=firebase,supabase,mysql,aws&theme=dark)](https://skillicons.dev)
+
+<h3><strong>Deployment</strong></h3>
+
+[![DB](https://skillicons.dev/icons?i=netlify,vercel&theme=dark)](https://skillicons.dev)
+
+<!-- ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&color=%230071eb)
 ![cpp](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23486ac7) 
 ![csharp](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=sharp&logoColor=white&color=%23ab40cf)
 ![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)
@@ -38,7 +53,7 @@ My current focus is to become a full time back-end software engineer working on 
 ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&color=%23db8400)
 ![Scala](https://img.shields.io/badge/scala-white?style=for-the-badge&logo=scala&logoColor=white&color=%23eb0000)
 ![Unity](https://img.shields.io/badge/Unity%20Engine-454545?style=for-the-badge&logo=Unity) 
-![UE](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![UE](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white) -->
 <!-- ![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=7a86b8) -->
 <!-- ![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300) -->
 
