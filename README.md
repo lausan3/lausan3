@@ -24,7 +24,7 @@ My current focus is to become a full time back-end software engineer working on 
 ![Vercel](https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=white&color=black)
 ![Netlify](https://img.shields.io/badge/netlify-white?style=for-the-badge&logo=netlify&logoColor=white&color=0dbfbd)
 ![Firebase](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=white&color=%23e39f00) 
-![Supabase](https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=white&color=%#4bd195)
+![Supabase](https://img.shields.io/badge/supabase-%234bd195?style=for-the-badge&logo=supabase&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%23e0ab4f?style=for-the-badge&logo=bun&logoColor=white)
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%23005ebd) 
 ![Next](https://img.shields.io/badge/next-white?style=for-the-badge&logo=next.js&logoColor=white&color=black)
