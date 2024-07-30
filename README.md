@@ -16,6 +16,10 @@ My dream is to become a full time back-end software engineer working on features
 - **Backend Engineer** working on [DayCap](https://github.com/lausan3/DayCap), a chrome extension that books calendar events for you from just your voice
 - **Full-Stack Flutter Dev** working on [@GomikoApp](https://github.com/GomikoApp), a mobile app for foreigners in Japan to scan items and figure out where to recycle them
 
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server.onrender.com%2Fspotify%2Flastplayed&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
+<p>^ one of my projects :3</p>
+
+
 ## 💡 My Skills
 <div align="center">
 <h3><strong>Backend</strong></h3>
