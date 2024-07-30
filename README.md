@@ -17,7 +17,7 @@ My dream is to become a full time back-end software engineer working on features
 - **Full-Stack Flutter Dev** working on [@GomikoApp](https://github.com/GomikoApp), a mobile app for foreigners in Japan to scan items and figure out where to recycle them
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fspotify%2Flastplayed&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
-<p>^ one of my projects :3</p>
+<p>^ one of my projects :)</p>
 
 
 ## 💡 My Skills
