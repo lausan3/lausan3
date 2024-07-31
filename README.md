@@ -74,6 +74,6 @@ My dream is to become a full time back-end software engineer working on features
 
 ## 📊 My Stats
 <div align="center" width="876">
-<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true&number_format=short" width="490">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python&exclude_repo=cs49385" width="375">
+<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true&number_format=short" width="460">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python&exclude_repo=cs49385" width="350">
 </div>
