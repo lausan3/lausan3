@@ -74,24 +74,6 @@ My dream is to become a full time back-end software engineer working on features
 
 ## 📊 My Stats
 <div align="center" width="876">
-<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&hide=stars" width="490">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python&exclude_repo=cs49385" width="340">
+<img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true&number_format=short" width="490">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python&exclude_repo=cs49385" width="375">
 </div>
-
-
-
-
-<!--
-**lausan3/lausan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.l
-
-Here are some ideas to get you star:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
