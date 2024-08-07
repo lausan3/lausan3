@@ -69,6 +69,7 @@ My dream is to become a full time back-end software engineer working on features
 <!-- ![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=7a86b8) -->
 <!-- ![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300) -->
 
+<!-- -->
 </div>
 <br>
 
