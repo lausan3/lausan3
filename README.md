@@ -24,7 +24,7 @@ My dream is to become a full time back-end software engineer working on features
 <div align="center">
 <h3><strong>Backend</strong></h3>
   
-[![Backend](https://skillicons.dev/icons?i=express,bun,elysia,ts,js,go,dart,py&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=express,elysia,ts,js,go,dart&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Frontend</strong></h3>
 
@@ -40,7 +40,7 @@ My dream is to become a full time back-end software engineer working on features
 
 <h4>Other stuff I know but don't use</h4>
 
-[![Other](https://skillicons.dev/icons?i=laravel,php,cpp,cs,unity,unreal,scala,swift,java&theme=dark)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=laravel,php,cpp,cs,unity,swift,java&theme=dark)](https://skillicons.dev)
 
 <!-- ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&color=%230071eb)
 ![cpp](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23486ac7) 
