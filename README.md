@@ -1,20 +1,23 @@
 # Hey there, I'm Anthony! 👋
-## •ᴗ• Who I Am
+## •ᴗ• Who I am
 I'm a senior undergraduate pursuing a Bachelors of Science in Computer Science and Game Programming from the [City University of New York](https://www.cuny.edu).
 
 My dream is to become a full time back-end software engineer working on features in the tech that people use like phones, cars, and XR tech!
 
+<!--
 ## 👔 Experience
 - **Software Engineering Program Participant** at [Google](https://about.google/) x [ProjectBASTA](https://www.projectbasta.com/)'s Google Software Engineer Program (G-SWEP)
 - **Software Engineering Fellow** at [Headstarter](https://headstarter.co/)
 - **Software Engineer Intern** at [The Difference](https://thedifferenceapp.com/)
 - **Game AI Programmer** for [@Studio Aspen](https://github.com/StudioAspen) during my time at the [EGD Collective](https://www.egdcollective.org/) fellowship
+-->
 
-## 🚧 Projects
+## 🚧 What I'm working on
   
-- **Backend Engineer** working on [@AlgoArchive](https://github.com/AlgoArchiveExt), a chrome extension that automatically commits LeetCode solutions to GitHub inspired by Qasim Wani's [LeetHub](https://github.com/QasimWani/LeetHub)
+- **Backend Engineer** working on [@AlgoArchive](https://github.com/AlgoArchiveExt), a chrome extension that automatically commits LeetCode solutions to GitHub inspired by Qasim Wani's [LeetHub](https://github.com/QasimWani/LeetHub), as well as a learning platform with a built in AI assistant that provides feedback on your solutions.
+- **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
 - **Backend Engineer** working on [DayCap](https://github.com/lausan3/DayCap), a chrome extension that books calendar events for you from just your voice
-- **Full-Stack Flutter Dev** working on [@GomikoApp](https://github.com/GomikoApp), a mobile app for foreigners in Japan to scan items and figure out where to recycle them
+<!-- - **Full-Stack Flutter Dev** working on [@GomikoApp](https://github.com/GomikoApp), a mobile app for foreigners in Japan to scan items and figure out where to recycle them -->
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fbadges%2Flastplayed%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
 <p>^ one of my projects :)</p>
@@ -24,7 +27,7 @@ My dream is to become a full time back-end software engineer working on features
 <div align="center">
 <h3><strong>Backend</strong></h3>
   
-[![Backend](https://skillicons.dev/icons?i=express,elysia,ts,js,go,dart&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=express,ts,js,go,dart,elysia&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Frontend</strong></h3>
 
@@ -38,9 +41,9 @@ My dream is to become a full time back-end software engineer working on features
 
 [![DB](https://skillicons.dev/icons?i=netlify,vercel&theme=dark)](https://skillicons.dev)
 
-<h4>Other stuff I know but don't use</h4>
+<h3>Other stuff I know but don't use</h3>
 
-[![Other](https://skillicons.dev/icons?i=laravel,php,cpp,cs,unity,swift,java&theme=dark)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=laravel,php,cpp,cs,unity,java&theme=dark)](https://skillicons.dev)
 
 <!-- ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&color=%230071eb)
 ![cpp](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23486ac7) 
