@@ -16,7 +16,7 @@ My dream is to become a full time back-end software engineer working on features
   
 - **Backend Engineer** working on [@AlgoArchive](https://github.com/AlgoArchiveExt), a chrome extension that automatically commits LeetCode solutions to GitHub inspired by Qasim Wani's [LeetHub](https://github.com/QasimWani/LeetHub), as well as a learning platform with a built in AI assistant that provides feedback on your solutions.
 - **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
-- **Backend Engineer** working on [DayCap](https://github.com/lausan3/DayCap), a chrome extension that books calendar events for you from just your voice
+<!-- - **Backend Engineer** working on [DayCap](https://github.com/lausan3/DayCap), a chrome extension that books calendar events for you from just your voice -->
 <!-- - **Full-Stack Flutter Dev** working on [@GomikoApp](https://github.com/GomikoApp), a mobile app for foreigners in Japan to scan items and figure out where to recycle them -->
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fbadges%2Flastplayed%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
@@ -31,7 +31,7 @@ My dream is to become a full time back-end software engineer working on features
 
 <h3><strong>Frontend</strong></h3>
 
-[![Frontend](https://skillicons.dev/icons?i=flutter,next,react,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=next,react,tailwind,flutter&theme=dark)](https://skillicons.dev)
 
 <h3><strong>DBs</strong></h3>
 
@@ -39,7 +39,7 @@ My dream is to become a full time back-end software engineer working on features
 
 <h3><strong>Deployment</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=netlify,vercel&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=vercel,netlify&theme=dark)](https://skillicons.dev)
 
 <h3>Other stuff I know but don't use</h3>
 
