@@ -35,7 +35,7 @@ My dream is to become a full time back-end software engineer working on features
 
 <h3><strong>DBs</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=firebase,mysql,supabase,mysql,aws&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=firebase,mysql,supabase,aws&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Deployment</strong></h3>
 
