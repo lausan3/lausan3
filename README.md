@@ -35,11 +35,11 @@ My dream is to become a full time back-end software engineer working on features
 
 <h3><strong>DBs</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=firebase,supabase,mysql,aws&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=firebase,mysql,supabase,mysql,aws&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Deployment</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=vercel,netlify&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=vercel,aws,docker,netlify&theme=dark)](https://skillicons.dev)
 
 <h3>Other stuff I know but don't use</h3>
 
