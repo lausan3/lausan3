@@ -27,7 +27,7 @@ My dream is to become a full time back-end software engineer working on features
 <div align="center">
 <h3><strong>Backend</strong></h3>
   
-[![Backend](https://skillicons.dev/icons?i=express,ts,js,go,dart,elysia&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=express,ts,go,dart,elysia&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Frontend</strong></h3>
 
