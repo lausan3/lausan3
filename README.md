@@ -30,7 +30,7 @@ My dream is to become a full time back-end software engineer working on features
 <div align="center">
 <h3><strong>Backend</strong></h3>
   
-[![Backend](https://skillicons.dev/icons?i=express,ts,go,dart,elysia&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,ts,express,dart,elysia&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Frontend</strong></h3>
 
@@ -38,11 +38,11 @@ My dream is to become a full time back-end software engineer working on features
 
 <h3><strong>DBs</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=firebase,mysql,supabase,aws&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=mysql,aws,postgres,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Deployment</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=vercel,aws,docker,netlify&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=aws,docker&theme=dark)](https://skillicons.dev)
 
 <h3>Other stuff I know but don't use</h3>
 
