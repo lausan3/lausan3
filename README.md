@@ -14,7 +14,7 @@ My dream is to become a full time back-end software engineer working on features
 
 ## 🚧 What I'm working on
   
-- **Backend Engineer** working on [@AlgoArchive](https://github.com/AlgoArchiveExt), a chrome extension that automatically commits LeetCode solutions to GitHub inspired by Qasim Wani's [LeetHub](https://github.com/QasimWani/LeetHub), as well as a learning platform with a built in AI assistant that provides feedback on your solutions.
+- **Backend Engineer** working on [@AlgoArchive](https://github.com/AlgoArchiveExt), a chrome extension that automatically commits LeetCode solutions to GitHub inspired by Qasim Wani's [LeetHub](https://github.com/QasimWani/LeetHub)!
   
 [Waitlist here!](https://algoarchive.org/)
 
