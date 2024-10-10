@@ -16,7 +16,7 @@ My dream is to become a full time back-end software engineer working on features
   
 - **Backend Engineer** working on [@AlgoArchive](https://github.com/AlgoArchiveExt), a chrome extension that automatically commits LeetCode solutions to GitHub inspired by Qasim Wani's [LeetHub](https://github.com/QasimWani/LeetHub)!
   
-[Waitlist here!](https://algoarchive.org/)
+[Landing Page!](https://algoarchive.org/)
 
 - **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
 <!-- - **Backend Engineer** working on [DayCap](https://github.com/lausan3/DayCap), a chrome extension that books calendar events for you from just your voice -->
@@ -30,7 +30,7 @@ My dream is to become a full time back-end software engineer working on features
 <div align="center">
 <h3><strong>Backend</strong></h3>
   
-[![Backend](https://skillicons.dev/icons?i=go,ts,express,dart,elysia&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,ts,express,dart&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Frontend</strong></h3>
 
@@ -38,7 +38,7 @@ My dream is to become a full time back-end software engineer working on features
 
 <h3><strong>DBs</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=mysql,aws,postgres,firebase,supabase&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=mysql,aws,postgres,firebase&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Deployment</strong></h3>
 
@@ -46,7 +46,7 @@ My dream is to become a full time back-end software engineer working on features
 
 <h3>Other stuff I know but don't use</h3>
 
-[![Other](https://skillicons.dev/icons?i=laravel,php,cpp,cs,unity,java&theme=dark)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=laravel,php,cpp,cs,unity&theme=dark)](https://skillicons.dev)
 
 <!-- ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&color=%230071eb)
 ![cpp](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23486ac7) 
