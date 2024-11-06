@@ -13,13 +13,10 @@ My dream is to become a full time back-end software engineer working on features
 -->
 
 ## 🚧 What I'm working on
-  
-- **Backend Engineer** working on [AlgoArchive](https://algoarchive.org/), a chrome extension that automatically commits LeetCode solutions to GitHub inspired by Qasim Wani's [LeetHub](https://github.com/QasimWani/LeetHub)!
 
+- Learning Machine Learning, Computer Vision, the world of XR (specifically AR), and Back-end engineering techniques!
 
 - **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
-<!-- - **Backend Engineer** working on [DayCap](https://github.com/lausan3/DayCap), a chrome extension that books calendar events for you from just your voice -->
-<!-- - **Full-Stack Flutter Dev** working on [@GomikoApp](https://github.com/GomikoApp), a mobile app for foreigners in Japan to scan items and figure out where to recycle them -->
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fbadges%2Flastplayed%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
 <p>^ one of my projects :)</p>
