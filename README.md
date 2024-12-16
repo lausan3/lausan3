@@ -2,7 +2,7 @@
 ## •ᴗ• Who I am
 I'm a senior undergraduate pursuing a Bachelors of Science in Computer Science and Game Programming from the [City University of New York](https://www.cuny.edu).
 
-My dream is to become a full time back-end software engineer working on features in the tech that people use like phones, cars, and XR tech!
+My dream is to become a full time full-stack mobile software engineer working on features in the AR/VR, smartphone, and automotive industries!
 
 <!--
 ## 👔 Experience
@@ -14,7 +14,7 @@ My dream is to become a full time back-end software engineer working on features
 
 ## 🚧 What I'm working on
 
-- Learning Machine Learning, Computer Vision, the world of XR (specifically AR), and Back-end engineering techniques!
+- Learning Machine Learning, Computer Vision, the world of AR/VR, and full-stack mobile development.
 
 - **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
 
