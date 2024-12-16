@@ -1,6 +1,6 @@
 # Hey there, I'm Anthony! 👋
 ## •ᴗ• Who I am
-I'm a senior undergraduate pursuing a Bachelors of Science in Computer Science and Game Programming from the [City University of New York](https://www.cuny.edu).
+I'm a senior undergraduate pursuing a Bachelors of Science in Computer Science from the [City University of New York](https://www.cuny.edu).
 
 My dream is to become a full time full-stack mobile software engineer working on features in the AR/VR, smartphone, and automotive industries!
 
