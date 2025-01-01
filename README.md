@@ -14,7 +14,7 @@ My dream is to become a full time full-stack mobile software engineer working on
 
 ## 🚧 What I'm working on
 
-- Learning Machine Learning, Computer Vision, the world of AR/VR, and full-stack mobile development.
+- Learning Computer Vision, the world of AR/VR, and full-stack mobile development.
 
 - **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
 
