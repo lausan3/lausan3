@@ -18,6 +18,10 @@ My dream is to become a full time full-stack mobile software engineer working on
 
 - **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
 
+- **Frontend Engineer** working on Musafirly, an iOS app to find restaurants near your area that satisfy your dietary restrictions.
+
+- **Full-Stack Engineer** at The Difference, a health and fitness startup developing an app that predicts your weight gain and loss by tracking your calories.
+
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fbadges%2Flastplayed%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
 <p>^ one of my projects :)</p>
 
@@ -26,23 +30,27 @@ My dream is to become a full time full-stack mobile software engineer working on
 <div align="center">
 <h3><strong>Backend</strong></h3>
   
-[![Backend](https://skillicons.dev/icons?i=go,ts,express,dart&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,ts,elysia&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Frontend</strong></h3>
 
-[![Frontend](https://skillicons.dev/icons?i=next,react,tailwind,flutter&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=swift,next,react,tailwind,flutter&theme=dark)](https://skillicons.dev)
 
 <h3><strong>DBs</strong></h3>
 
-[![DB](https://skillicons.dev/icons?i=mysql,aws,postgres,firebase&theme=dark)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=mysql,aws,firebase&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Deployment</strong></h3>
 
 [![DB](https://skillicons.dev/icons?i=aws,docker&theme=dark)](https://skillicons.dev)
 
+<h3><strong>XR Development</strong></h3>
+
+[![XR](https://skillicons.dev/icons?i=unity,cs&theme=dark)](https://skillicons.dev)
+
 <h3>Other stuff I know but don't use</h3>
 
-[![Other](https://skillicons.dev/icons?i=laravel,php,cpp,cs,unity&theme=dark)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=laravel,php,cpp&theme=dark)](https://skillicons.dev)
 
 <!-- ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&color=%230071eb)
 ![cpp](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23486ac7) 
@@ -67,7 +75,7 @@ My dream is to become a full time full-stack mobile software engineer working on
 ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&color=%23db8400)
 ![Scala](https://img.shields.io/badge/scala-white?style=for-the-badge&logo=scala&logoColor=white&color=%23eb0000)
 ![Unity](https://img.shields.io/badge/Unity%20Engine-454545?style=for-the-badge&logo=Unity) 
-![UE](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white) -->
+![UE](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 <!-- ![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=7a86b8) -->
 <!-- ![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=white&color=%23e35300) -->
 
