@@ -18,7 +18,7 @@ My dream is to become a full time full-stack mobile software engineer working on
 
 - **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
 
-- **Frontend Engineer** working on Musafirly, an iOS app to find restaurants near your area that satisfy your dietary restrictions.
+- **Full-Stack Engineer** working on Musafirly, an iOS app to find restaurants near your area that satisfy your dietary restrictions.
 
 - **Full-Stack Engineer** at The Difference, a health and fitness startup developing an app that predicts your weight gain and loss by tracking your calories.
 
