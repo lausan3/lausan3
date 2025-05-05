@@ -20,8 +20,6 @@ My dream is to become a full time full-stack mobile software engineer working on
 
 - **Full-Stack Engineer** working on Musafirly, an iOS app to find restaurants near your area that satisfy your dietary restrictions.
 
-- **Full-Stack Engineer** at The Difference, a health and fitness startup developing an app that predicts your weight gain and loss by tracking your calories.
-
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fbadges%2Flastplayed%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
 <p>^ one of my projects :)</p>
 
