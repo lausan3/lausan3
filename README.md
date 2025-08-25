@@ -28,15 +28,17 @@ My dream is to become a full time full-stack mobile software engineer working on
 <div align="center">
 <h3><strong>Backend</strong></h3>
   
-[![Backend](https://skillicons.dev/icons?i=go,ts,elysia&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,express,ts,aws&theme=dark)](https://skillicons.dev)
 
-<h3><strong>Frontend</strong></h3>
-
-[![Frontend](https://skillicons.dev/icons?i=swift,next,react,tailwind,flutter&theme=dark)](https://skillicons.dev)
 
 <h3><strong>DBs</strong></h3>
 
 [![DB](https://skillicons.dev/icons?i=mysql,aws,firebase&theme=dark)](https://skillicons.dev)
+
+
+<h3><strong>Frontend</strong></h3>
+
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css,swift,flutter&theme=dark)](https://skillicons.dev)
 
 <h3><strong>Deployment</strong></h3>
 
