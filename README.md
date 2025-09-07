@@ -2,7 +2,11 @@
 ## •ᴗ• Who I am
 I'm a senior undergraduate pursuing a Bachelors of Science in Computer Science from the [City University of New York](https://www.cuny.edu).
 
-My dream is to become a full time full-stack mobile software engineer working on features in the AR/VR, smartphone, and automotive industries!
+My goal is to become a full time full-stack software engineer designing new web/mobile app features!
+
+Currently, I'm
+
+- Volunteering as a Full-Stack Tech Coordinator at the Girls Who Code chapter at my college, building a unified events system for use between our 3 Computer Science clubs.
 
 <!--
 ## 👔 Experience
@@ -14,11 +18,7 @@ My dream is to become a full time full-stack mobile software engineer working on
 
 ## 🚧 What I'm working on
 
-- Learning Computer Vision, the world of AR/VR, and full-stack mobile development.
-
-- **Backend Engineer** working on my [Shields.io Badge Server](https://github.com/lausan3/shields-io-badge-server), a server with endpoints to use in conjunction with [Shields.io](https://shields.io/) to create dynamic badges to put on your profile!
-
-- **Full-Stack Engineer** working on Musafirly, an iOS app to find restaurants near your area that satisfy your dietary restrictions.
+- Working on the events 
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fbadges%2Flast-played%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
 <p>^ one of my projects :)</p>
