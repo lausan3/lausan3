@@ -4,10 +4,6 @@ I'm a senior undergraduate pursuing a Bachelors of Science in Computer Science f
 
 My goal is to become a full time full-stack software engineer designing new web/mobile app features!
 
-Currently, I'm
-
-- Volunteering as a Full-Stack Tech Coordinator at the Girls Who Code chapter at my college, building a unified events system for use between our 3 Computer Science clubs.
-
 <!--
 ## 👔 Experience
 - **Software Engineering Program Participant** at [Google](https://about.google/) x [ProjectBASTA](https://www.projectbasta.com/)'s Google Software Engineer Program (G-SWEP)
@@ -16,12 +12,13 @@ Currently, I'm
 - **Game AI Programmer** for [@Studio Aspen](https://github.com/StudioAspen) during my time at the [EGD Collective](https://www.egdcollective.org/) fellowship
 -->
 
-## 🚧 What I'm working on
-
-- Working on the events 
-
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Flausan-badge-server-10c6eb697973.herokuapp.com%2Fbadges%2Flast-played%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
 <p>^ one of my projects :)</p>
+
+
+## 🚧 What I'm working on
+
+- Volunteering as a Full-Stack Tech Coordinator at the Girls Who Code chapter at my college, building a unified events system for use between our 3 Computer Science clubs.
 
 
 ## 💡 My Skills
