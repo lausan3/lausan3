@@ -19,7 +19,7 @@ My goal is to become a full time full-stack software engineer designing new web/
 ## 🚧 What I'm working on
 
 - Volunteering as a Full-Stack Tech Coordinator at the Girls Who Code chapter at my college, building a unified events system for use between our 3 Computer Science clubs.
-- Full-Stack Flutter founding engineer at a shadow startup.
+- Full-Stack founding Flutter engineer at a shadow startup.
 
 
 ## 💡 My Skills
@@ -84,5 +84,5 @@ My goal is to become a full time full-stack software engineer designing new web/
 ## 📊 My Stats
 <div align="center" width="876">
 <img src="https://github-readme-stats.vercel.app/api?username=lausan3&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true&number_format=short" width="460">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python&exclude_repo=cs49385" width="350">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lausan3&layout=compact&theme=tokyonight&langs_count=6&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,css,makefile,JavaScript,HTML,Lua&exclude_repo=cs49385,Leetcode-Solutions,TikTok-Hack-athon,debuggle,ShieldGen" width="350">
 </div>
