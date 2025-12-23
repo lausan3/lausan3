@@ -19,6 +19,7 @@ My goal is to become a full time full-stack software engineer designing new web/
 ## 🚧 What I'm working on
 
 - Volunteering as a Full-Stack Tech Coordinator at the Girls Who Code chapter at my college, building a unified events system for use between our 3 Computer Science clubs.
+- Full-Stack Flutter founding engineer at a shadow startup.
 
 
 ## 💡 My Skills
