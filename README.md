@@ -12,7 +12,6 @@ My goal is to become a full time full-stack software engineer designing new web/
 -->
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.alausan.com%2Fbadges%2Flast-played%2Fanthonylaus&style=for-the-badge&logo=spotify&labelColor=black&color=gray)
-<p>^ one of my projects :)</p>
 
 
 ## What I'm working on
